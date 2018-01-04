@@ -1,5 +1,5 @@
 module.exports = {
-  serve: 'http://rap2-backend:10377',
+  serve: 'http://10.0.58.159:10377',
   keys: ['some secret hurr'],
   session: {
     key: 'koa:sess'
