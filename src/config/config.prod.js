@@ -1,5 +1,5 @@
 module.exports = {
-  serve: 'http://10.0.58.159:10377',
+  serve: 'https://rap2server.bu6.io',
   keys: ['some secret hurr'],
   session: {
     key: 'koa:sess'
